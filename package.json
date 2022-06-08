@@ -1,0 +1,29 @@
+{
+  "name": "react-jest",
+  "version": "1.0.0",
+  "description": "Practicing Unit Testing with Jest in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancmandev/react-jest.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Jest",
+    "React",
+    "Unit",
+    "Testing"
+  ],
+  "author": "Juan Carlos Manzanero Domínguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancmandev/react-jest/issues"
+  },
+  "homepage": "https://github.com/juancmandev/react-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
